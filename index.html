@@ -8,16 +8,6 @@
         <meta name="title" content="Frisk og sund hundemad af kød, grønsager og ris. That's it! - MÆT">
         <meta name="description" content="Mæt er hundefoder fra ægte kød helt uden korn og tilsætningsstoffer. Let at bruge og kræver ingen special viden om råfodring.">
 
-        <!-- Google structured data -->
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "url": "https://matpets.com",
-          "logo": "https://matpets.com/img/mat-pets-logo.png"
-        }
-        </script>
-
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://matpets.com/">
@@ -44,6 +34,11 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700%7CRubik:300,400,500" rel="stylesheet" type="text/css">
         <link href="css/font-rubiklato.css" rel="stylesheet" type="text/css">
+        <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="img/favicon/site.webmanifest">
+
     </head>
     <body data-smooth-scroll-offset="77">
         <div class="nav-container">
@@ -90,6 +85,7 @@
                 </nav>
             </div>
         </div>
+        <div class="main-container">
             <section id="hero" class="cover imagebg text-center height-80 section--ken-burns" data-overlay="2">
                 <div class="background-image-holder"><img alt="Jamie" src="img/jamie2.jpg"></div>
                 <div class="container pos-vertical-center">
@@ -319,17 +315,17 @@
                             <p class="lead">Få 10% på den første ordre - uden binding!</p>
                         </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-10 col-lg-8">
-                      <form class="row" action="https://matpets.us10.list-manage.com/subscribe/post?u=cc16fcd8eeeee2500e2a9c38b&amp;id=21c8d96c56" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-                          <div class="col-md-8"><input class="validate-required validate-email" type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="e-mailadresse" required></div>
-                          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cc16fcd8eeeee2500e2a9c38b_21c8d96c56" tabindex="-1" value=""></div>
-                          <div class="col-md-4"> <button type="submit" value="subscribe" id="mc-embedded-subscribe" class="btn btn--primary type--uppercase">Tilmeld</button></div>
-                      </form>
-                      <span class="type--fine-print">Jeg har læst og accepterer <a href="/terms">betingelserne</a></span>
-                    </div>
+                  <div class="row">
+                      <div class="col-md-10 col-lg-8">
+                        <form class="row" action="https://matpets.us10.list-manage.com/subscribe/post?u=cc16fcd8eeeee2500e2a9c38b&amp;id=21c8d96c56" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                            <div class="col-md-8"><input class="validate-required validate-email" type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="e-mailadresse" required></div>
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cc16fcd8eeeee2500e2a9c38b_21c8d96c56" tabindex="-1" value=""></div>
+                            <div class="col-md-4"> <button type="submit" value="subscribe" id="mc-embedded-subscribe" class="btn btn--primary type--uppercase">Tilmeld</button></div>
+                        </form>
+                        <span class="type--fine-print">Jeg har læst og accepterer <a href="/terms">betingelserne</a></span>
+                      </div>
+                  </div>
                 </div>
             </section>
             <section class="text-center bg--secondary" id="blog">
@@ -451,7 +447,7 @@
                             <div class="text-block">
                                 <h3>Århusgade 60<br>2100 København Ø</h3>
                                 <p class="lead"> E: <a href="mailto:wuf@matpets.com">wuf@matpets.com</a><br> T: <a href="tel:+4589805155">+45 8980 5155</a></p>
-                                <p class="lead"> Giv os et kald eller kom forbi vores butik og få en smagsprøve 🥩</p>
+                                <p class="lead"> Giv os et kald eller kom forbi vores butik og få en gratis smagsprøve 🥩</p>
                                 <p class="lead">Vi har åbent fra 9 — 17 på alle hverdage</p>
                             </div>
                             <!-- <form class="form-email row mx-0" data-success="Tak for beskeden. Vi vender tilbage hurtigst muligt." data-error="Fyld venligst alle tekstfelterne ud" method="POST">
@@ -498,6 +494,33 @@
         <script src="js/smooth-scroll.min.js"></script>
         <script src="js/scripts.js"></script>
 
+        <!-- Google structured data -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "MÆT Pets",
+          "foundingDate": "2020",
+          "url": "https://matpets.com",
+          "logo": "https://matpets.com/img/mat-pets-logo.png"
+          "founders": [{
+             "@type": "Person",
+             "name": "Sebastian Krumhausen"
+             }],
+             "address": {
+             "@type": "PostalAddress",
+             "streetAddress": "Århusgade 60",
+             "addressLocality": "Copenhagen",
+             "postalCode": "2100",
+             "addressCountry": "Denmark"},
+           "sameAs": [
+             "http://www.facebook.com/matpetsdk",
+             "http://www.instagram.com/matpetsdk",
+             "https://www.linkedin.com/matpets"
+           ]}
+        }
+        </script>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168707817-2"></script>
         <script>
@@ -528,7 +551,5 @@
           fbq('track', 'PageView');
         </script>
         <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3094586067254134&ev=PageView&noscript=1"/></noscript>
-
     </body>
-
 </html>
