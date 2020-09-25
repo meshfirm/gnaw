@@ -7,8 +7,8 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://maetpets.com</loc>
-  <lastmod>2020-06-28T10:51:50+00:00</lastmod>
+  <loc>http://matpets.com</loc>
+  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -19,6 +19,21 @@
 <url>
   <loc>http://maetpets.com/privacy</loc>
   <lastmod>2020-06-28T10:51:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/produkter</loc>
+  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/produkter/risotto</loc>
+  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/produkter/deli</loc>
+  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
