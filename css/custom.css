@@ -1,1 +1,5 @@
 /*! Place your custom styles here */
+.bar .logo {
+  max-height: 2.2em;
+  max-width: none;
+}
