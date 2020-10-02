@@ -797,7 +797,7 @@ img {
 }
 .imagebg:not(.image--light) .bg--white p,
 .imagebg:not(.image--light) .bg--white ul {
-  color: #666666;
+  color: #000000;
 }
 div[data-overlay] h1,
 div[data-overlay] h2,
@@ -2825,7 +2825,7 @@ a {
 .imagebg:not(.image--light) .bg--white span,
 .imagebg:not(.image--light) .bg--white ul,
 .imagebg:not(.image--light) .bg--white a:not(.btn) {
-  color: #666666;
+  color:;
 }
 .imagebg:not(.image--light) .bg--white h1,
 .imagebg:not(.image--light) .bg--white h2,

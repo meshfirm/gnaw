@@ -3,3 +3,6 @@
   max-height: 2.2em;
   max-width: none;
 }
+.imagebg:not(.image--light) .bg--white a:not(.btn) {
+  color:#000000;
+}
