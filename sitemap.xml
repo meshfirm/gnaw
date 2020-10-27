@@ -7,17 +7,52 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://maetpets.com</loc>
-  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
+  <loc>https://maetpets.com/</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://maetpets.com/en</loc>
-  <lastmod>2020-06-28T10:51:50+00:00</lastmod>
+  <loc>https://maetpets.com/privacy</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://maetpets.com/privacy</loc>
+  <loc>https://maetpets.com/hvad-er-frisk-hundemad</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/saadan-laver-vi-frisk-hundemad</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/produkter/risotto</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/produkter/deli</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/terms</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/blog/hvilket-hundefoder-skal-jeg-vaelge</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://maetpets.com/blog/hvad-kan-man-give-en-hund-med-foelsom-mave</loc>
+  <lastmod>2020-10-27T08:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://maetpets.com/en</loc>
   <lastmod>2020-06-28T10:51:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -27,32 +62,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maetpets.com/produkter/risotto</loc>
-  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maetpets.com/produkter/deli</loc>
-  <lastmod>2020-09-25T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maetpets.com/hvad-er-frisk-hundemad</loc>
-  <lastmod>2020-10-04T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maetpets.com/saadan-laver-vi-frisk-hundemad</loc>
-  <lastmod>2020-10-04T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://maetpets.com/blog</loc>
-  <lastmod>2020-06-28T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maetpets.com/blog/hvilket-hundefoder-skal-jeg-vaelge</loc>
   <lastmod>2020-06-28T10:51:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -66,16 +76,6 @@
   <lastmod>2020-06-28T10:51:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://maetpets.com/blog/hvad-kan-man-give-en-hund-med-foelsom-mave</loc>
-  <lastmod>2020-10-07T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<!-- <url>
-  <loc>https://maetpets.com/en/blog</loc>
-  <lastmod>2020-06-28T10:51:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url> -->
 <url>
   <loc>https://maetpets.com/en/blog/what-is-the-healthiest-food-to-feed-my-dog</loc>
   <lastmod>2020-06-28T10:51:50+00:00</lastmod>
