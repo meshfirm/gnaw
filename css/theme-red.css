@@ -2753,6 +2753,9 @@ a {
 .bg--dark {
   background: #252525;
 }
+.bg--pink {
+  background: #BC515F;
+}
 .bg--dark:not(.nav-bar):not(.bar) {
   color: #ffffff;
 }
@@ -2765,6 +2768,18 @@ a {
 .bg--dark:not(.nav-bar):not(.bar) i,
 .bg--dark:not(.nav-bar):not(.bar) span:not(.btn__text),
 .bg--dark:not(.nav-bar):not(.bar) p {
+  color: #ffffff;
+}
+
+.bg--pink:not(.nav-bar):not(.bar) h1,
+.bg--pink:not(.nav-bar):not(.bar) h2,
+.bg--pink:not(.nav-bar):not(.bar) h3,
+.bg--pink:not(.nav-bar):not(.bar) h4,
+.bg--pink:not(.nav-bar):not(.bar) h5,
+.bg--pink:not(.nav-bar):not(.bar) h6,
+.bg--pink:not(.nav-bar):not(.bar) i,
+.bg--pink:not(.nav-bar):not(.bar) span:not(.btn__text),
+.bg--pink:not(.nav-bar):not(.bar) p {
   color: #ffffff;
 }
 .bg--dark:not(.nav-bar):not(.bar) a:not(.btn) {
